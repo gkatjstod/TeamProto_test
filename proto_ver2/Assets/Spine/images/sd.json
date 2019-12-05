@@ -1,0 +1,112 @@
+{ "skeleton": { "images": "C:/Users/USER/Desktop/그림/포폴용/컨셉(호준)/스파인/블루베리/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "dsdw", "bone": "root", "attachment": "dsdw" },
+	{ "name": "downhair", "bone": "root", "attachment": "downhair" },
+	{ "name": "downhai", "bone": "root", "attachment": "downhai" },
+	{ "name": "backskirt", "bone": "root", "attachment": "backskirt" },
+	{ "name": "lunderleg", "bone": "root", "attachment": "lunderleg" },
+	{ "name": "lupleg", "bone": "root", "attachment": "lupleg" },
+	{ "name": "runderleg", "bone": "root", "attachment": "runderleg" },
+	{ "name": "ruoleg", "bone": "root", "attachment": "ruoleg" },
+	{ "name": "frontskirt", "bone": "root", "attachment": "frontskirt" },
+	{ "name": "rhand", "bone": "root", "attachment": "rhand" },
+	{ "name": "runderarm", "bone": "root", "attachment": "runderarm" },
+	{ "name": "ruparm", "bone": "root", "attachment": "ruparm" },
+	{ "name": "veil", "bone": "root", "attachment": "veil" },
+	{ "name": "middleveil", "bone": "root", "attachment": "middleveil" },
+	{ "name": "upveil", "bone": "root", "attachment": "upveil" },
+	{ "name": "luparm", "bone": "root", "attachment": "luparm" },
+	{ "name": "neck", "bone": "root", "attachment": "neck" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "red", "bone": "root", "attachment": "red" },
+	{ "name": "lip", "bone": "root", "attachment": "lip" },
+	{ "name": "leyeopen", "bone": "root", "attachment": "leyeopen" },
+	{ "name": "reyeopen", "bone": "root", "attachment": "reyeopen" },
+	{ "name": "uphair", "bone": "root", "attachment": "uphair" },
+	{ "name": "lunderarm", "bone": "root", "attachment": "lunderarm" },
+	{ "name": "lhand", "bone": "root", "attachment": "lhand" }
+],
+"skins": {
+	"default": {
+		"dsdw": {
+			"dsdw": { "x": 656.5, "y": -617.5, "width": 1315, "height": 1237 }
+		},
+		"downhair": {
+			"downhair": { "x": 666.5, "y": -748.5, "width": 1267, "height": 767 }
+		},
+		"downhai": {
+			"downhai": { "x": 277.5, "y": -636.5, "width": 417, "height": 375 }
+		},
+		"backskirt": {
+			"backskirt": { "x": 572.5, "y": -884.5, "width": 139, "height": 65 }
+		},
+		"lunderleg": {
+			"lunderleg": { "x": 525, "y": -1031, "width": 152, "height": 236 }
+		},
+		"lupleg": {
+			"lupleg": { "x": 578, "y": -877.5, "width": 152, "height": 313 }
+		},
+		"runderleg": {
+			"runderleg": { "x": 818.5, "y": -1026, "width": 149, "height": 226 }
+		},
+		"ruoleg": {
+			"ruoleg": { "x": 757.5, "y": -919.5, "width": 147, "height": 293 }
+		},
+		"frontskirt": {
+			"frontskirt": { "x": 668.5, "y": -833.5, "width": 343, "height": 161 }
+		},
+		"rhand": {
+			"rhand": { "x": 943, "y": -732, "width": 118, "height": 120 }
+		},
+		"runderarm": {
+			"runderarm": { "x": 882, "y": -680.5, "width": 234, "height": 119 }
+		},
+		"ruparm": {
+			"ruparm": { "x": 746, "y": -586.5, "width": 162, "height": 199 }
+		},
+		"veil": {
+			"veil": { "x": 662.5, "y": -833, "width": 269, "height": 192 }
+		},
+		"middleveil": {
+			"middleveil": { "x": 655, "y": -728.5, "width": 272, "height": 169 }
+		},
+		"upveil": {
+			"upveil": { "x": 658.5, "y": -585, "width": 235, "height": 198 }
+		},
+		"luparm": {
+			"luparm": { "x": 450.5, "y": -586, "width": 319, "height": 170 }
+		},
+		"neck": {
+			"neck": { "x": 607, "y": -490.5, "width": 242, "height": 209 }
+		},
+		"face": {
+			"face": { "x": 627, "y": -255, "width": 352, "height": 412 }
+		},
+		"red": {
+			"red": { "x": 655, "y": -369, "width": 302, "height": 160 }
+		},
+		"lip": {
+			"lip": { "x": 661.5, "y": -411.5, "width": 59, "height": 9 }
+		},
+		"leyeopen": {
+			"leyeopen": { "x": 565, "y": -291.5, "width": 160, "height": 171 }
+		},
+		"reyeopen": {
+			"reyeopen": { "x": 732.5, "y": -288, "width": 109, "height": 158 }
+		},
+		"uphair": {
+			"uphair": { "x": 623.5, "y": -266.5, "width": 563, "height": 471 }
+		},
+		"lunderarm": {
+			"lunderarm": { "x": 424.5, "y": -674.5, "width": 203, "height": 169 }
+		},
+		"lhand": {
+			"lhand": { "x": 372.5, "y": -722.5, "width": 105, "height": 75 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,228 @@
+{ "skeleton": { "images": "C:/Users/USER/Desktop/그림/포폴용/컨셉(호준)/스파인/블루베리/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "용지", "bone": "root", "attachment": "용지" },
+	{ "name": "레이어 2", "bone": "root" },
+	{ "name": "레이어 1", "bone": "root" },
+	{ "name": "레이어 4", "bone": "root", "attachment": "레이어 4" },
+	{ "name": "레이어 5", "bone": "root" },
+	{ "name": "레이어 10", "bone": "root", "attachment": "레이어 10" },
+	{ "name": "레이어 8", "bone": "root", "attachment": "레이어 8" },
+	{ "name": "레이어 13", "bone": "root", "attachment": "레이어 13" },
+	{ "name": "레이어 7", "bone": "root", "attachment": "레이어 7" },
+	{ "name": "레이어 9", "bone": "root", "attachment": "레이어 9" },
+	{ "name": "레이어 12", "bone": "root", "attachment": "레이어 12" },
+	{ "name": "레이어 11", "bone": "root", "attachment": "레이어 11" },
+	{ "name": "레이어 14", "bone": "root", "attachment": "레이어 14" },
+	{ "name": "레이어 6", "bone": "root", "attachment": "레이어 6" },
+	{ "name": "레이어 16", "bone": "root", "attachment": "레이어 16" },
+	{ "name": "레이어 15", "bone": "root", "attachment": "레이어 15" },
+	{ "name": "레이어 3", "bone": "root", "attachment": "레이어 3" },
+	{ "name": "폴더 1 2", "bone": "root" },
+	{ "name": "back_reborn2", "bone": "root" },
+	{ "name": "back_reborn", "bone": "root" },
+	{ "name": "rhair", "bone": "root" },
+	{ "name": "back_muppler", "bone": "root" },
+	{ "name": "R_arm", "bone": "root" },
+	{ "name": "backunder_skirt", "bone": "root" },
+	{ "name": "R_leg", "bone": "root" },
+	{ "name": "L_leg", "bone": "root" },
+	{ "name": "hair_side", "bone": "root" },
+	{ "name": "back_tie", "bone": "root" },
+	{ "name": "neck", "bone": "root" },
+	{ "name": "skirt_under", "bone": "root" },
+	{ "name": "skirt_up", "bone": "root" },
+	{ "name": "under_body", "bone": "root" },
+	{ "name": "upbody", "bone": "root" },
+	{ "name": "L_hand", "bone": "root" },
+	{ "name": "L_arm", "bone": "root" },
+	{ "name": "muppler", "bone": "root" },
+	{ "name": "nekctie", "bone": "root" },
+	{ "name": "reborn2", "bone": "root" },
+	{ "name": "reborn", "bone": "root" },
+	{ "name": "face", "bone": "root" },
+	{ "name": "white_eye", "bone": "root" },
+	{ "name": "eye1", "bone": "root" },
+	{ "name": "eye", "bone": "root" },
+	{ "name": "nunsup", "bone": "root" },
+	{ "name": "nose", "bone": "root" },
+	{ "name": "lea", "bone": "root" },
+	{ "name": "front_side", "bone": "root" },
+	{ "name": "L_side", "bone": "root" },
+	{ "name": "FL_hair", "bone": "root" },
+	{ "name": "폴더 1 2 복사 7", "bone": "root" },
+	{ "name": "front_hair", "bone": "root" },
+	{ "name": "l_hair", "bone": "root" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "L_handuo", "bone": "root", "attachment": "L_handuo" }
+],
+"skins": {
+	"default": {
+		"용지": {
+			"용지": { "x": 650, "y": -1000, "width": 1302, "height": 2002 }
+		},
+		"레이어 2": {
+			"레이어 2": { "x": 607, "y": -1000, "width": 10, "height": 2002 }
+		},
+		"레이어 1": {
+			"레이어 1": { "x": 554, "y": -1052.5, "width": 912, "height": 1683 }
+		},
+		"레이어 4": {
+			"레이어 4": { "x": 577.5, "y": -1044, "width": 911, "height": 1626 }
+		},
+		"레이어 5": {
+			"레이어 5": { "x": 688.5, "y": -956.5, "width": 687, "height": 1225 }
+		},
+		"레이어 10": {
+			"레이어 10": { "x": 623.5, "y": -1023.5, "width": 421, "height": 457 }
+		},
+		"레이어 8": {
+			"레이어 8": { "x": 591.5, "y": -1230, "width": 537, "height": 1132 }
+		},
+		"레이어 13": {
+			"레이어 13": { "x": 642.5, "y": -1800.5, "width": 367, "height": 115 }
+		},
+		"레이어 7": {
+			"레이어 7": { "x": 573, "y": -966.5, "width": 498, "height": 505 }
+		},
+		"레이어 9": {
+			"레이어 9": { "x": 646, "y": -1165, "width": 604, "height": 472 }
+		},
+		"레이어 12": {
+			"레이어 12": { "x": 580.5, "y": -720, "width": 265, "height": 784 }
+		},
+		"레이어 11": {
+			"레이어 11": { "x": 629.5, "y": -1383, "width": 647, "height": 178 }
+		},
+		"레이어 14": {
+			"레이어 14": { "x": 405, "y": -1378, "width": 422, "height": 752 }
+		},
+		"레이어 6": {
+			"레이어 6": { "x": 509.5, "y": -614, "width": 773, "height": 766 }
+		},
+		"레이어 16": {
+			"레이어 16": { "x": 545.5, "y": -458.5, "width": 587, "height": 461 }
+		},
+		"레이어 15": {
+			"레이어 15": { "x": 662.5, "y": -517, "width": 235, "height": 86 }
+		},
+		"레이어 3": {
+			"레이어 3": { "x": 577.5, "y": -1043, "width": 917, "height": 1630 }
+		},
+		"폴더 1 2": {
+			"폴더 1 2": { "x": 623, "y": -1045, "width": 832, "height": 1634 }
+		},
+		"back_reborn2": {
+			"back_reborn2": { "x": 534.5, "y": -1330.5, "width": 655, "height": 885 }
+		},
+		"back_reborn": {
+			"back_reborn": { "x": 532.5, "y": -1098.5, "width": 367, "height": 313 }
+		},
+		"rhair": {
+			"rhair": { "x": 792.5, "y": -607.5, "width": 199, "height": 755 }
+		},
+		"back_muppler": {
+			"back_muppler": { "x": 570, "y": -851, "width": 502, "height": 280 }
+		},
+		"R_arm": {
+			"R_arm": { "x": 851.5, "y": -985, "width": 375, "height": 442 }
+		},
+		"backunder_skirt": {
+			"backunder_skirt": { "x": 638, "y": -1367.5, "width": 652, "height": 189 }
+		},
+		"R_leg": {
+			"R_leg": { "x": 744.5, "y": -1527.5, "width": 207, "height": 623 }
+		},
+		"L_leg": {
+			"L_leg": { "x": 557.5, "y": -1510, "width": 193, "height": 704 }
+		},
+		"hair_side": {
+			"hair_side": { "x": 748, "y": -468, "width": 118, "height": 398 }
+		},
+		"back_tie": {
+			"back_tie": { "x": 575.5, "y": -717.5, "width": 149, "height": 127 }
+		},
+		"neck": {
+			"neck": { "x": 566.5, "y": -655, "width": 237, "height": 284 }
+		},
+		"skirt_under": {
+			"skirt_under": { "x": 635.5, "y": -1337.5, "width": 657, "height": 267 }
+		},
+		"skirt_up": {
+			"skirt_up": { "x": 631.5, "y": -1274.5, "width": 571, "height": 243 }
+		},
+		"under_body": {
+			"under_body": { "x": 637.5, "y": -1176.5, "width": 463, "height": 263 }
+		},
+		"upbody": {
+			"upbody": { "x": 619, "y": -987, "width": 444, "height": 544 }
+		},
+		"L_hand": {
+			"L_hand": { "x": 390.5, "y": -1261, "width": 83, "height": 108 }
+		},
+		"L_arm": {
+			"L_arm": { "x": 424, "y": -1032, "width": 152, "height": 564 }
+		},
+		"muppler": {
+			"muppler": { "x": 572.5, "y": -855.5, "width": 511, "height": 345 }
+		},
+		"nekctie": {
+			"nekctie": { "x": 570, "y": -723, "width": 194, "height": 114 }
+		},
+		"reborn2": {
+			"reborn2": { "x": 655, "y": -837, "width": 82, "height": 120 }
+		},
+		"reborn": {
+			"reborn": { "x": 624.5, "y": -772, "width": 111, "height": 62 }
+		},
+		"face": {
+			"face": { "x": 600.5, "y": -454.5, "width": 413, "height": 453 }
+		},
+		"white_eye": {
+			"white_eye": { "x": 650.5, "y": -515, "width": 229, "height": 82 }
+		},
+		"eye1": {
+			"eye1": { "x": 659, "y": -514, "width": 188, "height": 84 }
+		},
+		"eye": {
+			"eye": { "x": 642.5, "y": -484.5, "width": 279, "height": 149 }
+		},
+		"nunsup": {
+			"nunsup": { "x": 673, "y": -429.5, "width": 198, "height": 51 }
+		},
+		"nose": {
+			"nose": { "x": 699.5, "y": -577.5, "width": 13, "height": 15 }
+		},
+		"lea": {
+			"lea": { "x": 648.5, "y": -613.5, "width": 83, "height": 27 }
+		},
+		"front_side": {
+			"front_side": { "x": 747, "y": -435.5, "width": 120, "height": 351 }
+		},
+		"L_side": {
+			"L_side": { "x": 510, "y": -458.5, "width": 120, "height": 397 }
+		},
+		"FL_hair": {
+			"FL_hair": { "x": 558.5, "y": -403.5, "width": 215, "height": 293 }
+		},
+		"폴더 1 2 복사 7": {
+			"폴더 1 2 복사 7": { "x": 583.5, "y": -1021.5, "width": 531, "height": 1587 }
+		},
+		"front_hair": {
+			"front_hair": { "x": 654, "y": -387, "width": 156, "height": 288 }
+		},
+		"l_hair": {
+			"l_hair": { "x": 291, "y": -626, "width": 344, "height": 770 }
+		},
+		"weapon": {
+			"weapon": { "x": 587.5, "y": -1400, "width": 649, "height": 374 }
+		},
+		"L_handuo": {
+			"L_handuo": { "x": 385, "y": -1271.5, "width": 70, "height": 85 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
